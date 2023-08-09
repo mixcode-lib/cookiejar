@@ -1,3 +1,3 @@
 module github.com/mixcode-lib/cookiejar
 
-go 1.21rc4
+go 1.21
